@@ -6,7 +6,7 @@
     "jay sarah"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/jaythinkshappiness/typescript-angular2-template",
   "ignore": [
     "**/.*",
     "node_modules",
